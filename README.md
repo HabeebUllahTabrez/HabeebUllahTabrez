@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Habeeb Ullah</h1>
+<h3 align="center">A Backend developer from Hyderabad, India</h3>
+
 # 💫About Me :
 - 🌱 I’m currently learning **Nodejs, Solidity**
 
@@ -9,7 +12,7 @@
 
 - ⚡ Fun fact **I like to watch animexD**
 
-## 🌐Socials
+# 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theopcoder) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theopcoder) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/theopcoder) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TheOpCoder) 
 
 # 💻Tech Stack
